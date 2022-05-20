@@ -1,0 +1,9 @@
+com.hitouch.wikibook.app-appcompat-v7-21.0.3-0 C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\res
+com.hitouch.wikibook.app-pngs-1 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\generated\res\pngs\debug
+com.hitouch.wikibook.app-resValues-2 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\generated\res\resValues\debug
+com.hitouch.wikibook.app-rs-3 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\generated\res\rs\debug
+com.hitouch.wikibook.app-mergeDebugResources-4 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.hitouch.wikibook.app-mergeDebugResources-5 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.hitouch.wikibook.app-merged_res-6 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\build\intermediates\merged_res\debug
+com.hitouch.wikibook.app-debug-7 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\debug\res
+com.hitouch.wikibook.app-main-8 C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\res

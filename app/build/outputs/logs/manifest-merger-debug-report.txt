@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\c2601bab8f880630560ef323ebff4701\transformed\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b9aafe92cfe0c117b4967414c5e8b3a3\transformed\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\029b717183672299d3dcb7a3103f0ea9\transformed\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b810e88ca190f2a7f6e9ae6313bbae74\transformed\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\abd79e5f2c7780b443e21000f659f0b9\transformed\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-sdk
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\c2601bab8f880630560ef323ebff4701\transformed\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\c2601bab8f880630560ef323ebff4701\transformed\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b9aafe92cfe0c117b4967414c5e8b3a3\transformed\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b9aafe92cfe0c117b4967414c5e8b3a3\transformed\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\029b717183672299d3dcb7a3103f0ea9\transformed\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\029b717183672299d3dcb7a3103f0ea9\transformed\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b810e88ca190f2a7f6e9ae6313bbae74\transformed\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b810e88ca190f2a7f6e9ae6313bbae74\transformed\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\abd79e5f2c7780b443e21000f659f0b9\transformed\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\abd79e5f2c7780b443e21000f659f0b9\transformed\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:9:5-10:41
+		INJECTED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:12:5-27:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\gkpar\.gradle\caches\transforms-3\0a0ce3ee2702ec741ee6cfe1428cc6e8\transformed\appcompat-v7-21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\2dedb2a5ba65696f7855f24fc97c4219\transformed\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\c2601bab8f880630560ef323ebff4701\transformed\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\c2601bab8f880630560ef323ebff4701\transformed\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b9aafe92cfe0c117b4967414c5e8b3a3\transformed\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b9aafe92cfe0c117b4967414c5e8b3a3\transformed\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\029b717183672299d3dcb7a3103f0ea9\transformed\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\029b717183672299d3dcb7a3103f0ea9\transformed\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b810e88ca190f2a7f6e9ae6313bbae74\transformed\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\b810e88ca190f2a7f6e9ae6313bbae74\transformed\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\abd79e5f2c7780b443e21000f659f0b9\transformed\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\gkpar\.gradle\caches\transforms-3\abd79e5f2c7780b443e21000f659f0b9\transformed\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.hitouch.wikibook.BrowserActivity
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:19:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\gkpar\AndroidStudioProjects\webapp-master\app\src\main\AndroidManifest.xml:24:27-74
