@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">기술 노트</string>
+    <string name="app_name">KW NFT Platform</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     
-    <string name="title_web_info">기술 노트</string>
+    <string name="title_web_info">KW NFT Platform</string>
     
     <color name="bg">#ffffff</color>
     <string name="guide_back_end">뒤로 버튼을 한 번 더 누르시면 종료됩니다.</string>

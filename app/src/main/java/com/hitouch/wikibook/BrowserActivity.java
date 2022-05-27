@@ -60,10 +60,10 @@ public class BrowserActivity extends Activity {
         //빽(취소)키가 눌렸을때 종료여부를 묻는 다이얼로그 띄움
         if ((keyCode == KeyEvent.KEYCODE_BACK)) {
             AlertDialog.Builder d = new AlertDialog.Builder(this);
-            d.setTitle("프로그램을 종료 하시겠습니까?");
-            d.setMessage("'기술 노트' \n https://wikidocs.net/22308 으로 접속하시면 컴퓨터에서 편리하게 정보를 보실 수가 있습니다. 구글 스토어에서 별점/리뷰로 응원해주시면 더욱 감사하겠습니다~! \n\n종료하시려면 '예' 버튼을 눌러주세요.");
-            d.setIcon(R.drawable.ic_launcher);
-            d.setPositiveButton("아니요", new DialogInterface.OnClickListener() {
+            d.setTitle("Do you want to quit?");
+            d.setMessage("KW NFT Platform\n\nAt https://enchanting-tapioca-3709aa.netlify.app/, you can see more information!\n\nPress 'Yes' to quit.");
+            d.setIcon(R.drawable.kw_logo);
+            d.setPositiveButton("No", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     // TODO Auto-generated method stub
@@ -72,18 +72,18 @@ public class BrowserActivity extends Activity {
                 }
             });
 
-            d.setNeutralButton("리뷰/별점가기", new DialogInterface.OnClickListener() {
+            d.setNeutralButton("On Website", new DialogInterface.OnClickListener() {
 
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     // TODO Auto-generated method stub
                     Intent intent = new Intent(Intent.ACTION_VIEW);
-                    intent.setData(Uri.parse("market://details?id=com.hitouch.wikibook"));
+                    intent.setData(Uri.parse("https://enchanting-tapioca-3709aa.netlify.app/"));
                     startActivity(intent);
                 }
             });
 
-            d.setNegativeButton("예", new DialogInterface.OnClickListener() {
+            d.setNegativeButton("Yes", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     // TODO Auto-generated method stub
